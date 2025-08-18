@@ -17,10 +17,18 @@ const Footer = () => {
                     <img src={user_icon} alt="" />
                     <input type="email" placeholder='Enter Your Email' />
                 </div>
-                
+                <div className="footer-subscribe">Subscribe</div>
             </div>
         </div>
-      
+      <hr/>
+      <div className="footer-bottom">
+        <p className="footer-bottom-left">© 2025 Lakhan Raut. All Rights Reserved.</p>
+        <div className="footer-bottom-right">
+            <p>Term of Services</p>
+            <p>Privacy Policy</p>
+            <p>Connect with me</p>
+        </div>
+      </div>
     </div>
   )
 }
