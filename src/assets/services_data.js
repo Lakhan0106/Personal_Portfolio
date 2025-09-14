@@ -7,7 +7,7 @@ const Services_Data = [
     {
         s_no:"02",
         s_name:"Graphics design",
-        s_desc:"Graphics design is the process of creating visual content, combining typography..."
+        s_desc:"Graphics design is the process of creating visual content, combining..."
     },
     {
         s_no:"03",
